@@ -1,6 +1,15 @@
-.web-name {
-    color: red;
-    display:flex
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Raleway&display=swap');
+  :root {
+    --main-dark: #050505;
+    --main-light: #f3dfd6;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Raleway', sans-serif;
     
+  }
+  body {
+    margin:auto;
+    padding:auto;
+    font-family:Poppins, sans-serif;
+    background-color: var(--main-light);
 }
 
