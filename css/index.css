@@ -13,3 +13,20 @@
     background-color: var(--main-light);
 }
 
+.overheader {
+  background-color: #dd9676;
+  display: flex;
+  justify-content: space-around;
+  align-items:flex-start;
+}
+
+.overheader-name {
+  color: var(--main-dark);
+  font-family: 'Raleway', sans-serif;
+}
+
+.overheader-links {
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+}
